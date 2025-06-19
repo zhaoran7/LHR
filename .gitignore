@@ -1,2 +1,3 @@
-echo ".DS_Store" >> .gitignore
-echo "._*" >> .gitignore
+.DS_Store
+._*
+

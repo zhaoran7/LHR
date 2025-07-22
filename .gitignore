@@ -1,0 +1,28 @@
+# System file
+.DS_Store
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# IDE
+*.swp
+*.swo
+*.tmp
+*~
+
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# RStudio
+.Rproj.user/
+.Rhistory

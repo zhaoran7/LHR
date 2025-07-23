@@ -2,6 +2,8 @@
 
 ## **Independent association of leg-height ratio with 15 cardiometabolic diseases**
 
+GWAS summary statistics of height and LHR: https://zenodo.org/records/15861435
+
 ### *Abstract*
 
 The causal association between adult height and coronary artery disease (CAD) was established a decade ago. Accumulating evidence has since linked adult height to a variety of cardiometabolic diseases (CMD). As waist-hip ratio has become an increasingly important independent risk factor in addition to body mass index, we hypothesize that leg-height ratio (LHR) could also be a risk factor independent of overall height. 
